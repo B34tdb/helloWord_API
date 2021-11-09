@@ -1,0 +1,14 @@
+{
+  "name": "node.js-projeto3",
+  "version": "1.0.0",
+  "description": "Resilia aula ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hyan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
